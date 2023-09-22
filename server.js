@@ -4,7 +4,7 @@ const { google } = require("googleapis");
 
 const app = express();
 const port = 3000;
-const apiKey = "AIzaSyDh4lSGdVGOnOg9oEvLTeLeCvl1eH5UMb0";
+const apiKey = "AIzaSyDiDNEXP7JoXYzoP6VGUhzBmNIKBqPgrJA";
 const apiUrl = "https://www.googleapis.com/youtube/v3";
 const youtube = google.youtube({
   version: "v3",
